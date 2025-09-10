@@ -33,8 +33,6 @@ Bar chart of top states
 Subplots for comparison
 
 ✅ Insights & Conclusions – Highlighted states with maximum cases, recovery patterns, and critical trends.
-✅ Optional Forecasting (planned) – Considered Prophet/ARIMA for time-series forecasting (not implemented due to project scope).
-✅ Interactive Dashboard (optional) – Explored Jupyter-based dashboard with Plotly (not part of final submission).
 
 📊 Insights Gained
 
